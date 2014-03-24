@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# pip
+*.egg-info/
+
+# ideas about structure
+netttplan.txt
